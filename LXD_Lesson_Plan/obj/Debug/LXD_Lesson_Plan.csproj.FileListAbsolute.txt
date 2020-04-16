@@ -1,0 +1,291 @@
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\ApplicationInsights.config
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\csc.exe
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Collections.Immutable.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\vbc.exe
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe.config
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll.config
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.pdb
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.xml
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.xml
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.xml
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.csprojResolveAssemblyReference.cache
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.dll
+c:\users\xavier lee\documents\visual studio 2015\Projects\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.pdb
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.csprojResolveAssemblyReference.cache
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.pdb
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\ApplicationInsights.config
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\csc.exe
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\vbc.exe
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll.config
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.pdb
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.xml
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Xavier Lee\Documents\Visual Studio 2015\Projects\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\ApplicationInsights.config
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\csc.exe
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\vbc.exe
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll.config
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.pdb
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.csprojResolveAssemblyReference.cache
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan (without tl and dn)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.pdb
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\ApplicationInsights.config
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\csc.exe
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\vbc.exe
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll.config
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.pdb
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.xml
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.csprojResolveAssemblyReference.cache
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.pdb
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\ApplicationInsights.config
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\csc.exe
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\vbc.exe
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll.config
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.pdb
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.xml
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.dll
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.pdb
+C:\Users\Xavier Lee\Downloads\LXD_Lesson_Plan (with tl) - testing new note\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.csprojResolveAssemblyReference.cache
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\ApplicationInsights.config
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\csc.exe
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Collections.Immutable.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Reflection.Metadata.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\vbc.exe
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe.config
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll.config
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.pdb
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Agent.Intercept.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.xml
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.xml
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.xml
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.xml
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.csprojResolveAssemblyReference.cache
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.pdb
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.Doc.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.License.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.Pdf.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.mshtml.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.Doc.xml
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.License.xml
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.Pdf.xml
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Newtonsoft.Json.dll
+F:\From ASUS Desktop\Xavier\FYP\LXD_Lesson_Plan testing - (timeline and notes can delete)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Newtonsoft.Json.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\ApplicationInsights.config
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\csc.exe
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\vbc.exe
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll.config
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.pdb
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Newtonsoft.Json.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.Doc.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.License.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.Pdf.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.mshtml.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Newtonsoft.Json.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.Doc.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.License.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.Pdf.xml
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.csprojResolveAssemblyReference.cache
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.dll
+C:\Users\Lee Family\Downloads\LXD_Lesson_Plan (testing reading json)\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.pdb
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\ApplicationInsights.config
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\csc.exe
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\vbc.exe
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll.config
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\LXD_Lesson_Plan.pdb
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Newtonsoft.Json.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.Doc.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.License.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.Pdf.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.mshtml.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.Web.xml
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Newtonsoft.Json.xml
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.Doc.xml
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.License.xml
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\bin\Spire.Pdf.xml
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.dll
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.pdb
+C:\Users\Xavier Lee\Desktop\Xavier\LXD_Lesson_Plan\LXD_Lesson_Plan\obj\Debug\LXD_Lesson_Plan.csprojResolveAssemblyReference.cache
